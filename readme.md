@@ -2,4 +2,4 @@
 
 This is the readme.
 
-This is a change I made in RSTudio.
+This is a change I made in RStudio.
